@@ -1,0 +1,20 @@
+.containerButtons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Botones{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.Operadores{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.Bloque{
+    display: flex;
+}
